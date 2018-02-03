@@ -10,6 +10,9 @@ This page lists ressources (papers, code, examples, projects) that use machine l
   
 * [Learning Combinatorial Optimization Algorithms over Graphs](https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf)
 
+* [Deep Learning Assisted Heuristic Tree Search for the
+Container Pre-marshalling Problem](https://arxiv.org/pdf/1709.09972.pdf)
+
 # Contribute
 
 This is work in progress. Feel free to send a Pull Request, if you know any papers around the use of machine learning to solve combinatorial optimization problems.
