@@ -10,4 +10,4 @@ This page lists ressources (papers, code, examples, projects) that use machine l
 
 # Contribute
 
-This is work in progress. Feel free to send a Pull Request, if you know of any papers around the use of machine learning to solve combinatorial optimization problems.
+This is work in progress. Feel free to send a Pull Request, if you know any papers around the use of machine learning to solve combinatorial optimization problems.
