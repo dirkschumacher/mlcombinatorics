@@ -7,3 +7,7 @@ This page lists ressources (papers, code, examples, projects) that use machine l
 
 * [Pointer Networks](https://papers.nips.cc/paper/5866-pointer-networks)
   * Architecture to be used with combinatorial problems such as the TSP
+
+# Contribute
+
+This is work in progress. Feel free to send a Pull Request, if you know of any papers around the use of machine learning to solve combinatorial optimization problems.
