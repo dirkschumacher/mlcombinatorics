@@ -7,6 +7,8 @@ This page lists ressources (papers, code, examples, projects) that use machine l
 
 * [Pointer Networks](https://papers.nips.cc/paper/5866-pointer-networks)
   * Architecture to be used with combinatorial problems such as the TSP
+  
+* [Learning Combinatorial Optimization Algorithms over Graphs](https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf)
 
 # Contribute
 
